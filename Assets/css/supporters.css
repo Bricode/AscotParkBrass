@@ -1,0 +1,49 @@
+th{
+    border-width: 4px;
+    color: black;
+}
+nav{
+  margin-left: 15%;
+}
+.navBar{
+    margin-top: 5%;
+    margin-bottom: 10%;
+    padding: 5px 10px;
+    background-color:lightblue;
+    border-radius: 2px;    
+}
+
+body{
+    background-image: url('../img/sheet-music-texture.jpg');
+}
+#headerLogo{
+    width: 100%;
+    background-color: white;
+    opacity: 0.9;    
+    margin-bottom: 10px;
+}
+p, h5{
+  
+  /*padding: 20px;*/
+    margin-left: 10px;
+    margin-bottom: 3px;
+}
+#content{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10px;
+    background-color: white;
+    opacity: 0.9;
+    border-radius: 4px;
+}
+#logo{
+    /*margin-top: 3%;*/
+    min-width: 15%;
+    width: 50%;
+    height: 15%;   
+    background-color: white;
+    padding-left: 15%;
+}
+.dropdown{
+    margin-top: 5%;
+}
